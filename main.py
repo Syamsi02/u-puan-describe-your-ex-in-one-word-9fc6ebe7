@@ -11,6 +11,10 @@ against the judge's own order of criteria: first that the word really
 reads as a verdict on a former partner, then comic punch, surprise,
 craft and recognition. The winner is deterministic: fixed scores, a
 fixed tie-break, no clock, no randomness, no network.
+
+The winning word is TrialExpired: the relationship was a free trial,
+and the trial ended. It lands at a glance, needs no caption, and
+anyone who has had an ex recognise the feeling.
 """
 
 import os
